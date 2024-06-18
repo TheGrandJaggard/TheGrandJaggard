@@ -1,10 +1,16 @@
-## Hi there 👋
+# Hi there👋 I'm Jaggard
+- 🏢 I'm currently working part time at [FreightLogics](https://www.freightlogics.com) as a developer. With the rest of my time I'm learning and creating.
+- 💡 My passion is Game Development, so that's why I've taken multiple online courses from [Gamedev.tv](https://www.gamedev.tv).
+- 🌱 Whenever I can, I spend my time learning more about game systems, engines, and mechanics.
+- 🧑‍💻 Recently I've been working on building out an entire inventory system (so much fun!).
+- 🎮 I have published a few of my projects to [itch.io](https://jaggard.itch.io), where I also participated in the Gamedev.tv Game Jam 2024.
+- ⚡ Fun fact: My profile picure is a Lynx.
+<!-- ### Contact -->
 
 <!--
-**TheGrandJaggard/TheGrandJaggard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is ✨special✨ because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
